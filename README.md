@@ -1,4 +1,5 @@
-COVID PROJECT (SQL)
+#COVID PROJECT (SQL)
+
 This project analyzes COVID-19 data to understand the pandemic's impact on cases, deaths, and vaccinations using the `CovidDeaths` and `CovidVaccinations` datasets. The objectives include:
 
 1. **Basic Data Retrieval**: Extract and sort data from the `CovidDeaths` and `CovidVaccinations` tables.
