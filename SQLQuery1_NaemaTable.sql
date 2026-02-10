@@ -32,8 +32,8 @@
 
 
 
---INSERT INTO NaemaCouture_Product VALUES
---('Aisha dress', 101, 15000),
+INSERT INTO NaemaCouture_Product VALUES
+('Aisha dress', 101, 15000),
 --('Dresses', 102, 20000),
 --('Jeans', 103, 10000),
 --('Zena Abaya', 104, 18000),
@@ -227,6 +227,7 @@
 --JOIN NaemaCouture_Product AS p ON od.ProductID = p.ProductID
 --GROUP BY c.CustomerID, c.Name, p.ProductName
 --ORDER BY c.CustomerID, TotalPurchases DESC;
+
 
 
 
